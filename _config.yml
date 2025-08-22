@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Cristóbal Vivar-Vargas
+email: clvivar@ncsu.edu
+description: Academic webpage of MSc Cristobal Vivar-Vargas
 baseurl: ""
 url: ""
 
@@ -12,17 +12,17 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Cristóbal Vivar Vargas<br/>
+  Ph.D Student<br/>
+  North Carolina State University
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  North Carolina State University<br/>
+  SAS Hall 4119, Box 8205<br/>
+  Raleigh, NC 27695
 
 contact: >
-  <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
+  <a href="mailto:clvivar@ncsu.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact me via email!</a> <br/>
   <a href="https://github.com/sbryngelson/academic-website-template"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
 # Pages shown in navbar

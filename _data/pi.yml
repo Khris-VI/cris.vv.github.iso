@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
+- name: Cristóbal Vivar-Vargas
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Cristóbal Luis Vivar Vargas, Mathematics Ph.D Student in North Carolina State University
+  email: clvivar@ncsu.edu
+  github: asda
+  researchgate: asda
+  scholar: https://scholar.google.com/citations?user=7ILyMxkAAAAJ&hl=es&oi=ao
+  cv: asda
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2023) Mathematical Civil Engineer",
+      "(2023) Master of Science in Mathematics",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2023) Math Engineer", "(2023) MSc Math",]
