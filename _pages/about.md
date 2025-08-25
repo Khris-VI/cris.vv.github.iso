@@ -25,7 +25,7 @@ permalink: /about/
 
   <ul style="overflow: hidden">
     {% for education in member.education %}
-      <li>{{ education | replace: "-","&#8211;" }}</li>
+      <h4><li>{{ education | replace: "-","&#8211;" }}</li></h4>
     {% endfor %}
   </ul>
 
