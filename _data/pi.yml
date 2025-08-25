@@ -2,10 +2,9 @@
   photo: headshot.jpg
   info: Cristóbal Luis Vivar Vargas, Mathematics Ph.D Student in North Carolina State University
   email: clvivar@ncsu.edu
-  github: asda
-  researchgate: asda
+  github: https://github.com/Khris-VI
   scholar: https://scholar.google.com/citations?user=7ILyMxkAAAAJ&hl=es&oi=ao
-  cv: asda
+  cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
