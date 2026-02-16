@@ -58,6 +58,34 @@ permalink: /teaching/
 </table>
 <br>
 #### Professional responsible of creating material, making workshops and lectures related to mathematics for first and second year college students, specially for those with special needs.
+
+<hr style="
+    border: none;
+    height: 5px;
+    background-color: #a913bd;
+    margin: 20px 0;">
+    
+<table style="width:100%;">
+  <tr>
+    <td><strong><h2>Teaching Assistant</h2></strong></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.ncsu.edu/"><strong><h3>North Carolina State University</h3></strong></a></td>
+    <td style="text-align:right;"><a href="https://math.sciences.ncsu.edu/"><h3>Department of Mathematics</h3></a></td>
+  </tr>
+  <tr>
+    <td><h4>📅 August 2025 - July 2026</h4></td>
+    <td style="text-align:right;"><h4>📍Raleigh, USA</h4></td>
+  </tr>
+</table>
+<br>
+
+- #### **MA141 - Calculus I (2025 Fall)**
+  ##### First of three semesters in a calculus sequence for science and engineering majors. Functions, graphs, limits, derivatives, rules of differentiation, definite integrals, fundamental theorem of calculus, applications of derivatives and integrals.
+  
+- #### **MA242 - Calculus III (2026 Spring)**
+  ##### Third of three semesters in a calculus sequence for science and engineering majors. Vectors, vector algebra, and vector functions. Functions of several variables, partial derivatives, gradients, directional derivatives, maxima and mimima. Multiple integration. Line and surface integrals, Green's Theorem, Divergence Theorems, Stokes' Theorem, and applications. Use of computational tools.
+  
 <hr style="
     border: none;
     height: 5px;
