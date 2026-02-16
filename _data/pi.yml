@@ -1,9 +1,9 @@
-- name: Cristóbal Vivar-Vargas
+- name: Cristóbal L. Vivar-Vargas
   photo: headshot.jpg
   info: Cristóbal Luis Vivar Vargas, Mathematics Ph.D Student in North Carolina State University
   email: clvivar@ncsu.edu
   github: https://github.com/Khris-VI
-  scholar: https://scholar.google.com/citations?user=7ILyMxkAAAAJ&hl=es&oi=ao
+  scholar: https://scholar.google.com/citations?hl=es&user=7ILyMxkAAAAJ
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
